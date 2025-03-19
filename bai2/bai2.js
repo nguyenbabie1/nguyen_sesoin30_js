@@ -39,7 +39,7 @@ do {
             break;
         case 5:
             tangGiam();
-           
+            break;
         case 6:
             totalPrice();
             break;
